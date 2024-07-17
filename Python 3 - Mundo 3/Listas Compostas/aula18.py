@@ -9,9 +9,9 @@ dados.clear()
 pessoas[1] = ["Maria", 19]
 
 #mostrando dados compostos
-#print(pessoas)
-#print(pessoas[1])
-#print(pessoas[2][0])
+print(pessoas)
+print(pessoas[1])
+print(pessoas[2][0])
 for p in pessoas:
     print(p)
 
